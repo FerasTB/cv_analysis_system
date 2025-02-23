@@ -1,0 +1,13 @@
+Flask
+groq
+python-dotenv
+pdf2image
+Pillow
+PyPDF2
+docx
+python-docx
+pytesseract
+pytest
+# For OCR:
+# - Tesseract must be installed at the OS level
+# - Poppler must be installed at the OS level if converting PDFs to images
