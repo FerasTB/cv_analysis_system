@@ -22,6 +22,8 @@ This project enables you to effortlessly upload and process CVs in PDF or Word f
 - **User Interface:** Offers a front-end chat UI for seamless user interactions.
 - **Context Management:** Supports follow-up questions through effective conversation context management.
 
+[![Watch the video](https://img.youtube.com/vi/wNAywNdcqHQ/0.jpg)](https://www.youtube.com/watch?v=wNAywNdcqHQ)
+
 ## Setup Instructions
 
 ### 1. Clone or Fork the Repository
