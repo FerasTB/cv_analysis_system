@@ -29,8 +29,8 @@ This project enables you to effortlessly upload and process CVs in PDF or Word f
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/FerasTB/cv_analysis_system.git
+cd cv_analysis_system
 ```
 ### 2. Create and Activate a Virtual Environment
 
